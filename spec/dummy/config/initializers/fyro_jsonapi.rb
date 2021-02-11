@@ -1,0 +1,1 @@
+FyroJSONAPI::Rails.install!
